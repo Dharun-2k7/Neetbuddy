@@ -2,7 +2,7 @@ export const plans = {
   "Class 11 - 2 Year Programme": {
     monthly: ["Physics basics", "Chemistry foundations", "Biology NCERT unit 1"],
     weekly: ["Mon: Physics", "Tue: Chem", "Wed: Bio", "Thu: Mixed revision", "Fri: MCQs", "Sat: Test", "Sun: Fix weak areas"],
-    daily: ["2h Physics", "2h Chemistry", "2h Biology", "1h revision", "1h MCQs"]
+    daily: ["2h Physics", "1.5h Chemistry", "1h Biology", "1h MCQs"]
   },
   "Class 12 - 1 Year Programme": {
     monthly: ["Class 12 syllabus", "Parallel revision", "Weekly tests"],
