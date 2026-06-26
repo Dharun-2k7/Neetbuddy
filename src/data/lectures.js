@@ -1,14 +1,14 @@
 export const lectures = {
   physics: [
-    { lang: "English", teacher: "Physics Wallah", url: "https://www.youtube.com/" },
-    { lang: "English", teacher: "Neso Academy", url: "https://www.youtube.com/" }
+    { lang: "Hindi", teacher: "Physics Wallah", url: "https://www.youtube.com/@PhysicsWallah" },
+    { lang: "English", teacher: "Vedantu ", url: "https://www.youtube.com/@NEETEnglish/" }
   ],
   chemistry: [
-    { lang: "English", teacher: "Dexter Chemistry", url: "https://www.youtube.com/" },
-    { lang: "English", teacher: "Unacademy JEE/NEET", url: "https://www.youtube.com/" }
+    { lang: "hindi", teacher: "PW-Amit mahajan,Sudanshu", url: "https://www.youtube.com/@PWNEET-Official/" },
+    { lang: "English", teacher: "Unacademy JEE/NEET", url: "https://www.youtube.com/@UANEETEnglish" }
   ],
   biology: [
-    { lang: "English", teacher: "Biology at Ease", url: "https://www.youtube.com/" },
-    { lang: "English", teacher: "Aakash BYJU'S Biology", url: "https://www.youtube.com/" }
+    { lang: "Hindi", teacher: "Vipin-PW", url: "https://www.youtube.com/" },
+    { lang: "English", teacher: "Aakash BYJU'S Biolog", url: "https://www.youtube.com/" }
   ]
 };
